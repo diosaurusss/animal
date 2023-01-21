@@ -21,13 +21,6 @@ with tab1:
    
    st.write("---")
    
-   st.markdown('3.   BERUANG')
-   st.image("animal/pages/beruang.jpg")
-   st.markdown('berikut ini adalah suara beruang')
-   st.audio("animal/pages/suara beruang.ogg")
-   
-   st.write("---")
-
 with tab2:
    st.header("HERBIVORA")
    st.caption('BERIKUT INI ADALAH BEBERAPA CONTOH HEWAN HERBIVORA : ')
@@ -35,3 +28,9 @@ with tab2:
 with tab3:
    st.header("OMNIVORA")
    st.caption('BERIKUT INI ADALAH BEBERAPA CONTOH HEWAN OMNIVORA  : ')
+   st.markdown('3.   BERUANG')
+   st.image("animal/pages/beruang.jpg")
+   st.markdown('berikut ini adalah suara beruang')
+   st.audio("animal/pages/suara beruang.ogg")
+   
+   st.write("---")
