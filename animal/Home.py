@@ -37,6 +37,23 @@ st.write(
             """
         )
 
+st.write("---")
+
+st.header("Ciri - Ciri Hewan Vertebrata")
+st.write("##")
+st.write(
+            """
+            Tubuh hewan vertebrata mempunyai tipe simetri bilateral dan bagian organ dalam 
+            dilindungi oleh rangka dalam atau endoskeleton, khusus bagian otak yang dilindungi oleh tulang-tulang tengkorak (kranium).
+            Bagian terluar tubuh hewan vertebrata berupa kulit yang tersusun atas epidermis (lapisan luar) dan dermis (lapisan dalam).
+            
+            Kulit hewan vertebrata ada yang tertutup dengan bulu dan ada juga yang tertutup dengan rambut.
+            Organ dalam, seperti organ pencernaan, jantung, dan pernapasan terdapat didalam suatu rongga tubuh atau selom.
+            Selain itu, hewan vertebrata memiliki alat tubuh yang lengkap, yang menyusun sistem organ tubuhnya meliputi sistem pencernaan yang memanjang dari mulut hingga anus,
+            sistem peredaran darah tertutup (darah mengalir di dalam pembuluh darah), alat ekskresi berupa ginjal, alat pernapasan berupa paru-paru atau insang, 
+            sepasang alat reproduksi (kanan dan kiri) serta sistem endokrin yang berfungsi menghasilkan hormon. Berikut ciri-ciri lainnya dari hewan vertebrata:
+            """
+        )
 
 st.header("Playlist Fundamental Streamlit")
 col1, col2, col3 = st.columns(3)
