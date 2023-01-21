@@ -11,9 +11,9 @@ with tab1:
    st.audio("animal/pages/suara singa.mp3")
    
    st.markdown('1.   BERUANG')
-   st.image("animal/pages/singa.jpg")
-   st.markdown('berikut ini adalah suara singa')
-   st.audio("animal/pages/suara singa.mp3")
+   st.image("animal/pages/daus.jpeg")
+   st.markdown('berikut ini adalah suara beruang')
+   st.audio("animal/pages/suara lembu.ogg")
 
 with tab2:
    st.header("HERBIVORA")
