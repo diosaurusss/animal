@@ -16,6 +16,11 @@ with tab1:
    st.image("animal/pages/harimau.jpg")
    st.markdown('berikut ini adalah suara harimau')
    st.audio("animal/pages/suara harimau.mp3")
+   
+   st.markdown('3.   BERUANG')
+   st.image("animal/pages/beruang.jpg")
+   st.markdown('berikut ini adalah suara beruang')
+   st.audio("animal/pages/suara beruang.ogg")
 
 with tab2:
    st.header("HERBIVORA")
