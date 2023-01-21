@@ -20,7 +20,7 @@ st.write("##")
 st.write(
             """
             Pengertian Hewan
-                Menurut Anshori (2009) hewan atau disebut juga dengan binatang adalah 
+            ##Menurut Anshori (2009) hewan atau disebut juga dengan binatang adalah 
             kelompok organisme yang diklasifikasikan dalam kerajaan Animalia atau 
             metazoa, adalah salah satu dari berbagai makhluk hidup di bumi. Sebutan lainnya 
             adalah fauna dan margasatwa (atau satwa saja). Hewan dalam pengertian 
