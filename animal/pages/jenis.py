@@ -10,7 +10,7 @@ with tab1:
    st.markdown('berikut ini adalah suara singa')
    st.audio("animal/pages/suara singa.ogg")
    
-   st.markdown('1.   HARIMAU')
+   st.markdown('2.   HARIMAU')
    st.image("animal/pages/harimau.jpg")
    st.markdown('berikut ini adalah suara harimau')
    st.audio("animal/pages/suara harimau.mp3")
