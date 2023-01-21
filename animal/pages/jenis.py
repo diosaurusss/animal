@@ -6,7 +6,7 @@ with tab1:
    st.header("KARNIVORA")
    st.subheader('BERIKUT INI ADALAH BEBERAPA CONTOH HEWAN KARNIVORA : ')
    st.caption("SINGA")
-   st.image("singa.jpg")
+   st.image("animal/pages/singa.jpg")
 
 with tab2:
    st.header("HERBIVORA")
