@@ -5,32 +5,29 @@ st.set_page_config(
     page_title="ANIMALCLUB")
 
 st.title("SELAMAT DATANG DI ANIMAL CLUB")
-st.sidebar.success("PILIH HALAMAN")
+st.sidebar.success("Pilih Halaman")
 
-st.subheader("Hai, Sahabat Kelas Awan Pintar :wave:")
+st.subheader("Hai Sobat")
     
 st.write(
-        "Saya bersemangat untuk menggunakan Streamlit lebih efisien dan efektif dalam bisnis."
+        "Selamat Datang Di WEB Pengenalan Hewan"
     )
-st.write("[Website Kelas Awan Pintar](https://kelasawanpintar.netlify.app/)")
 
 st.write("---")
 
-st.header("Apa yang saya lakukan")
+st.header("Apa Itu Hewan?")
 st.write("##")
 st.write(
             """
-            Di Channel YouTube Kelas Awan Pintar, kita akan membuat tutorial untuk orang-orang yang:
-            - sedang mencari cara untuk belajar Python.
-            - sedang mencari cara untuk belajar Streamlit.
-            - ingin belajar Analisis Data & Ilmu Data untuk melakukan analisis.
-            - ingin belajar Artificial Intelligence, Data Science, Machine Learning, Natural Language Processing.
-            - ingin belajar dunia IT
-            - Jika ingin terhubung di [Linkedin](https://www.linkedin.com/in/jumadi-01/)
-            - Jika ingin gabung di group telegram [Kelas Awan Pintar](https://t.me/+CdyAL5WlRVNjOGM1)
-            Jika Channel YouTube saya menarik bagi Anda, jangan lupa untuk berlangganan dan menyalakan notifikasi, agar Anda tidak ketinggalan konten apa pun.
-            
-            [Channel YouTube](https://www.youtube.com/channel/UC7rCdlKnMTt26Q3np3rW1Iw)
+            Pengertian Hewan
+                Menurut Anshori (2009) hewan atau disebut juga dengan binatang adalah 
+            kelompok organisme yang diklasifikasikan dalam kerajaan Animalia atau 
+            metazoa, adalah salah satu dari berbagai makhluk hidup di bumi. Sebutan lainnya 
+            adalah fauna dan margasatwa (atau satwa saja). Hewan dalam pengertian 
+            sistematika modern mencakup hanya kelompok bersel banyak (multiselular) dan 
+            terorganisasi dalam fungsi-fungsi yang berbeda (jaringan), sehingga kelompok ini 
+            disebut juga histozoa. Semua binatang heterotrof, artinya tidak membuat energi 
+            sendiri, tetapi harus mengambil dari lingkungan sekitarnya.
             """
         )
 st.header("Playlist Fundamental Streamlit")
