@@ -123,6 +123,7 @@ st.write(
             Contoh hewan mamalia, yakni kera, kuda, jerapah, paus, lumba-lumba, dan gajah.
             """
         )
+st.write("---")
 
 st.header("Bangsa Hewan")
 st.write("##")
@@ -130,8 +131,7 @@ st.write("Berikut ini Beberapa Bangsa Hewan")
 st.write("1.    Karnivora")
 st.write(
             """
-            Ini adalah jenis hewan pemakan daging. Hewan yang masuk golongan karnivora ini, dikenal sebagai hewan buas.
-            Itu karena mereka memangsa hewan lain untuk dimakan.
+            Hewan yang masuk golongan karnivora ini, dikenal sebagai hewan buas. Itu karena mereka memangsa hewan lain untuk dimakan.
             Hewan ini dikenal juga sebagai hewan bisa bergerak sangat cepat, gigi taringnya tajam, kukunya juga runcing, pandangan matanya, serta penciumannya tajam.
             Teman-teman, karena mereka sama-sama mencari hewan untuk diburu, biasanya sesama hewan karnivora tidak mau tinggal bersama-sama.
             Di alam liar mereka punya daerah kekuasaan masing-masing.
@@ -140,4 +140,29 @@ st.write(
             """
         )
 
+st.write("2.    Herbivora")
+st.write(
+            """
+            Hewan jenis ini adalah jenis hewan pemakan tumbuhan. Hampir semua bagian tumbuhan bisa dimakannya.
+            Seperti, daun, akar, batang, bunga, buah, atau rumput. Hewan ini bisa dikenali dari susunan giginya.
+            Seperti: tidak memiliki giri taring, giginya hanya gigi seri dan geraham untuk mengunyah.
+            Hewan herbivora biasanya bisa bergabung dan hidup bersama dengan hewan herbivora lainnya.
+            Mereka biasanya sama-sama mencari makanan di hutan atau di padang rumput.
+            Ada juga yang tidak mempunyai gigi, tapi mereka punya tembolok.
+            Tembolok ini adalah kantong tempat makanan, yang ada di leher. Biasanya, unggas yang punya tembolok.
+            Tembolok itu gunanya untuk menghaluskan makanan, sebelum dicerna lagi di dalam perut.
+            Contoh hewan herbivora adalah kuda, gajah, sapi, kerbau, kambing, burung merpati, perkutut, dan burung beo.
+            """
+        )
+
+st.write("3.    Omnivora")
+st.write(
+            """
+            Nah, yang terakhir adalah hewan omnivora. Inilah hewan yang suka makan daging maupun tumbuhan atau dikenal juga dengan hewan pemakan segala.
+            Sesuai dengan namanya, hewan ini bisa memangsa hewan lain untuk disantap dan makan tumbuh-tumbuhan juga.
+            Hewan omnivora juga bisa dikenali dari giginya.
+            Selain punya gigi taring yang tajam, hewan ini juga punya gigi seri untuk memotong makanan, dan geraham untuk mengunyah makanannya.
+            Beberapa contoh hewan omnivora adalah beruang, tikus, ayam, flamingo, paus, monyet, dan musang.
+            """
+        )
 st.write("---")
