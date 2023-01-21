@@ -7,6 +7,7 @@ with tab1:
    st.subheader('BERIKUT INI ADALAH BEBERAPA CONTOH HEWAN KARNIVORA : ')
    st.markdown('1.   SINGA')
    st.image("animal/pages/singa.jpg")
+   st.markdown('berikut ini adalah suara singa')
 
 with tab2:
    st.header("HERBIVORA")
