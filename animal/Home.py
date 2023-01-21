@@ -65,6 +65,27 @@ st.write(
         )
 st.write("---")
 
+st.header("Kelompok Vertebrata")
+st.write("##")
+st.write("1. Pisces")
+st.write(
+            """
+            Pisces atau ikan termasuk salah satu jenis hewan vertebrata.
+            Karena ikan memiliki rangka yang tersusun dari tulang keras dan mengandung kalsium fosfat.
+            Pisces hidup di dalam air. Bagian luar dari tubuh ikan dilindungi dengan eksoskeleton yang berupa sisik. 
+            Bergerak dengan sirip dan ekor. Ikan bernapas dengan insang dan tidak mempunyai daun telinga.  
+            Contohnya yakni ikan mas, ikan cupang, ikan kakap merah, dan ikan bandeng.
+            """
+        )
 
+st.write("2. Amphibia")
+st.write(
+            """
+            Hewan Amphibia adalah hewan yang hidup di dua tempat, yakni air dan darat.
+            Amphibia bernapas menggunakan paru-paru dan juga kulitnya. Saat menjadi kecebong bernapas menggunakan insang.
+            Jantungnya memiliki tiga ruang. Perkembangbiakan dengan menghasilkan telur dan tidak bercangkang.
+            Contoh hewan amphibia, yakni katak.
+            """
+        )
     
 st.write("---")
