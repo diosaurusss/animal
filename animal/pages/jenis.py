@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.title("INI ADALAH JENIS HEWAN BERDASARKAN MAKANAN")
+
 tab1, tab2, tab3 = st.tabs(["KARNIVORA", "HERBIVORA", "OMNIVORA"])
 
 with tab1:
