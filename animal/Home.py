@@ -87,5 +87,42 @@ st.write(
             Contoh hewan amphibia, yakni katak.
             """
         )
-    
+
+st.write("3. Reptilia")
+st.write(
+            """
+            Hewan reptilia memiliki kulit keras, kering dan bersisik yang terbuat dari zat tanduk.
+            Sisik reptil berfungsi untuk mencegah kekeringan.
+            Hewan reptil merupakan hewan pertama yang mampu beradaptasi di daerah kering.
+            Untuk berjalan reptil menggunakan parut atau kaki dan bernapas dengan paru-paru.
+            Contoh hewan reptil, yakni ular, buaya, aligator, kura-kura, atau kadal.
+            """
+        )
+
+st.write("4. Aves")
+st.write(
+            """
+            Aves memiliki bulu dan paruh yang terbuat dari zat keratin. Bulu aves membentuk sayap yang berfungsi untuk terbang.
+            Aves atau burung hidup di udara dan alat pernapasan berupa paru-paru dan alat tambahan berupa pundi-pundi udara.
+            Itu berfungsi sebagai tempat cadangan udara pernapasan di saat terbang jauh.
+            Aves berkembangbiak dengan bertelur dengan ciri telur bercangkang dan kuning terlur berukuran besar.
+            Contoh hewan aves, yakni ayam, merpati, burung kakatua.
+            """
+        )
+
+st.write("5. Mamalia")
+st.write(
+            """
+            Pada hewan mamalia menghasilkan susu sebagai makanan untuk anaknya.
+            Susu dihasilkan oleh kelenjar (glandula mammae) yang terdapat di daerah perut atau dada.
+            Selain memiliki susu, hewan mamalia juga memiliki rambut dan tiga tulang telinga tengah.
+            Hewan mamalia umumnya hidup di daratan, tapi ada juga yang hidup di air, seperti paus dan lumba-lumba.
+            Struktur tubuhnya sesuai dengan cara hidupnya, ada yang terbang, berenang, meluncur atau berlari.
+            Mamalia berkembangbiak dengan melahirkan anak dan pembuahan terjadi di dalam tubuh induk.
+            Bernapas menggunakan paru-paru dan mempunyai diafragma untuk membantu bernapas.
+            Contoh hewan mamalia, yakni kera, kuda, jerapah, paus, lumba-lumba, dan gajah.
+            """
+        )
+
+
 st.write("---")
