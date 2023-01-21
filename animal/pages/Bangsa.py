@@ -12,15 +12,21 @@ with tab1:
    st.markdown('berikut ini adalah suara singa')
    st.audio("animal/pages/suara singa.ogg")
    
+   st.write("---")
+   
    st.markdown('2.   HARIMAU')
    st.image("animal/pages/harimau.jpg")
    st.markdown('berikut ini adalah suara harimau')
    st.audio("animal/pages/suara harimau.mp3")
    
+   st.write("---")
+   
    st.markdown('3.   BERUANG')
    st.image("animal/pages/beruang.jpg")
    st.markdown('berikut ini adalah suara beruang')
    st.audio("animal/pages/suara beruang.ogg")
+   
+   st.write("---")
 
 with tab2:
    st.header("HERBIVORA")
