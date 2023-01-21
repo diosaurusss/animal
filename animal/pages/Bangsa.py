@@ -5,7 +5,7 @@ st.title("INI ADALAH JENIS HEWAN BERDASARKAN MAKANAN")
 tab1, tab2, tab3 = st.tabs(["KARNIVORA", "HERBIVORA", "OMNIVORA"])
 
 with tab1:
-   st.header("KARNIVORAA")
+   st.header("KARNIVORA")
    st.subheader('BERIKUT INI ADALAH BEBERAPA CONTOH HEWAN KARNIVORA : ')
    st.markdown('1.   SINGA')
    st.image("animal/pages/singa.jpg")
