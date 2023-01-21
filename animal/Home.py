@@ -4,23 +4,6 @@ import streamlit as st
 st.set_page_config(
     page_title="ANIMALCLUB")
 
-with open('style.css') as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-st.markdown('<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>', unsafe_allow_html=True)
-    
-st.markdown(
-    """
-    <style>
-    .css-1xtoq5p e1fqkh3o2 {
-        display: none;
-    }
-    MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    </style>
-    """,
-    unsafe_allow_html=True,
-    )
-
 st.title("SELAMAT DATANG DI ANIMAL CLUB")
 st.sidebar.success("Pilih Halaman")
 
