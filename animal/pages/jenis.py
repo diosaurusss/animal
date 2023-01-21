@@ -6,10 +6,10 @@ with tab1:
    st.header("KARNIVORA")
    st.caption('BERIKUT INI ADALAH BEBERAPA CONTOH HEWAN KARNIVORA')
 
-with tab1:
+with tab2:
    st.header("OMNIVORA")
    st.caption('BERIKUT INI ADALAH BEBERAPA CONTOH HEWAN KARNIVORA')
 
-with tab1:
+with tab3:
    st.header("HERBIVORA")
    st.caption('BERIKUT INI ADALAH BEBERAPA CONTOH HEWAN KARNIVORA')
