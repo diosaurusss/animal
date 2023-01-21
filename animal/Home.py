@@ -124,5 +124,20 @@ st.write(
             """
         )
 
+st.header("Bangsa Hewan")
+st.write("##")
+st.write("Berikut ini Beberapa Bangsa Hewan")
+st.write("1.    Karnivora")
+st.write(
+            """
+            Ini adalah jenis hewan pemakan daging. Hewan yang masuk golongan karnivora ini, dikenal sebagai hewan buas.
+            Itu karena mereka memangsa hewan lain untuk dimakan.
+            Hewan ini dikenal juga sebagai hewan bisa bergerak sangat cepat, gigi taringnya tajam, kukunya juga runcing, pandangan matanya, serta penciumannya tajam.
+            Teman-teman, karena mereka sama-sama mencari hewan untuk diburu, biasanya sesama hewan karnivora tidak mau tinggal bersama-sama.
+            Di alam liar mereka punya daerah kekuasaan masing-masing.
+            Walaupun lebih banyak karnivora yang hidup di darat, tetapi ada juga karnivora yang hidup di laut, dan udara.
+            Ini dia beberapa contoh hewan karnivora: singa, macan, harimau, citah, serigala, ular, komodo, ikan hiu, burung elang, dan burung rajawali.
+            """
+        )
 
 st.write("---")
