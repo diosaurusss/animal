@@ -51,23 +51,20 @@ st.write(
             Organ dalam, seperti organ pencernaan, jantung, dan pernapasan terdapat didalam suatu rongga tubuh atau selom.
             Selain itu, hewan vertebrata memiliki alat tubuh yang lengkap, yang menyusun sistem organ tubuhnya meliputi sistem pencernaan yang memanjang dari mulut hingga anus,
             sistem peredaran darah tertutup (darah mengalir di dalam pembuluh darah), alat ekskresi berupa ginjal, alat pernapasan berupa paru-paru atau insang, 
-            sepasang alat reproduksi (kanan dan kiri) serta sistem endokrin yang berfungsi menghasilkan hormon. Berikut ciri-ciri lainnya dari hewan vertebrata:
+            sepasang alat reproduksi (kanan dan kiri) serta sistem endokrin yang berfungsi menghasilkan hormon.
+            Berikut ciri-ciri lainnya dari hewan vertebrata:
+            
+            1.  Memiliki syaraf yang terdiri dari otak dan sumsum tulang belakang
+            2.  Bernafas dengan paru-paru kulit dan insang.
+            3.  Memiliki kelenjar bundar dan endoksin yang menghasilkan hormon pengendali.
+            4.  Memiliki suhu tubuh yang panas dan tetap (homoiternal) atau bersuhu tubuh dingin sesuai dengan kondisi lingkungan (poikiloternal).
+            5.  Alat pencernaan memanjang mulai dari mulut hingga ke anus, yang letaknya di sebelah vertran dan di belakang.
+            6.  Berkulit epidermis (bagian luar) dan kulit endodermis (bagian dalam).
+            7.  Alat reproduksi berpasangan, kecuali pada burung.
             """
         )
+st.write("---")
 
-st.header("Playlist Fundamental Streamlit")
-col1, col2, col3 = st.columns(3)
 
-with col1:
-        st.subheader("Introduction di Aplikasi Streamlit")
-        st.video('https://www.youtube.com/watch?v=0PBpAEGuNHM&list=PLm94WimySTnr_AllzUeBTZR-fdvTsw99l')
-
-with col2:
-        st.subheader("Cara menampilkan teks")
-        st.video('https://www.youtube.com/watch?v=tPA0x_wToXQ&list=PLm94WimySTnr_AllzUeBTZR-fdvTsw99l&index=2')
-
-with col3:
-        st.subheader("Cara Menampilkan Data")
-        st.video('https://www.youtube.com/watch?v=dIx4ccvKduU&list=PLm94WimySTnr_AllzUeBTZR-fdvTsw99l&index=3')
     
 st.write("---")
